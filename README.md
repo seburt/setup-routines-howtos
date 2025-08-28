@@ -13,3 +13,4 @@ A small collection of Linux/bash setup and installation cheat‑sheets and guide
 - [Java: Oracle JDK download helper](java-jdk-download.md)
 - [Maven: install and setup](maven-install-setup.md)
 - [Gradle: install and setup](gradle-install-setup.md)
+- [WIP: Linux fs audit and incident monitoring: basic level](filesystem_audit_basics.md)
